@@ -1,0 +1,442 @@
+{
+    "map": [{
+        "tiles": {
+            "0": {
+                "url": "",
+                "filename": ""
+            },
+            "1": {
+                "url": "",
+                "filename": ""
+            },
+            "2": {
+                "url": "",
+                "filename": "floor0-2014-v1.svg"
+            }
+        },
+        "config": {
+            "enableMyLocation": "true"
+        },
+        "markers": {
+            "0": [{
+                "lat": 12.988226,
+                "lng": 80.226351,
+                "type": "label",
+                "id": "room8",
+                "title": "Chemplast"
+            }, {
+                "lat": 12.991524,
+                "lng": 80.233684,
+                "type": "label",
+                "id": "gc",
+                "title": "Gajendra Circle"
+            }],
+            "1": [{
+                "lat": 37.783387683090886,
+                "lng": -122.40415100008249,
+                "type": "session",
+                "id": "room1",
+                "title": "Room 1"
+            }, {
+                "lat": 37.783049568,
+                "lng": -122.4045865,
+                "type": "label",
+                "id": "workshops",
+                "title": "Workshops"
+            }],
+            "2": [{
+                "lat": 45.78381535905965,
+                "lng": -12.40362226963043,
+                "type": "label",
+                "id": "northentrance",
+                "title": "Entrance"
+            }]
+        }
+    }],
+    "speakers": [{
+        "bio": "<details>",
+        "name": "<AeroBotics Co-ord 1>",
+        "company": "Shaastra",
+        "plusoneUrl": "https://plus.google.com/+NikhilGupta280695",
+        "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+        "id": "Aerobotics_Coord1"
+    }, {
+        "bio": "<details>",
+        "name": "<AeroBotics Co-ord 2>",
+        "company": "Shaastra",
+        "plusoneUrl": "https://plus.google.com/+NikhilGupta280695",
+        "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+        "id": "Aerobotics_Coord2"
+    }, {
+        "bio": "<details>",
+        "name": "<Airshow Co-ord 1>",
+        "company": "Shaastra",
+        "plusoneUrl": "https://plus.google.com/+KirillGrouchnikov",
+        "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+        "id": "Airshow_Coord1"
+    }, {
+        "bio": "<details>",
+        "name": "<Airshow Co-ord 2>",
+        "company": "Shaastra",
+        "plusoneUrl": "https://plus.google.com/+KirillGrouchnikov",
+        "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+        "id": "Airshow_Coord2"
+    }, {
+        "bio": "<details>",
+        "name": "<Case Study Co-ord 1>",
+        "company": "Shaastra",
+        "plusoneUrl": "https://plus.google.com/+KirillGrouchnikov",
+        "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+        "id": "Case Study_Coord1"
+    }, {
+        "bio": "<details>",
+        "name": "<Consigliere Co-ord 1>",
+        "company": "Shaastra",
+        "plusoneUrl": "https://plus.google.com/+KirillGrouchnikov",
+        "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+        "id": "Consigliere_Coord1"
+    },
+     {
+             "bio": "<details>",
+             "name": "<Android App Workshop Co-ord 1>",
+             "company": "Shaastra",
+             "plusoneUrl": "https://plus.google.com/+KirillGrouchnikov",
+             "thumbnailUrl": "http://findicons.com/files/icons/61/dragon_soft/128/user.png",
+             "id": "Android App Workshop_Coord1"
+         }],
+    "blocks": [{
+        "end": "2015-01-03T16:00:00.000Z",
+        "title": "Breakfast",
+        "type": "break",
+        "subtitle": "",
+        "start": "2015-01-03T14:00:00.000Z"
+    }, {
+        "end": "2015-01-06T23:00:00.000Z",
+        "title": "",
+        "subtitle": "",
+        "start": "2015-01-06T01:00:00.000Z",
+        "type": "free"
+    }, {
+        "end": "2015-01-05T23:00:00.000Z",
+        "title": "",
+        "subtitle": "",
+        "start": "2015-01-05T01:00:00.000Z",
+        "type": "free"
+    }, {
+        "end": "2015-01-04T05:00:00.000Z",
+        "title": "After hours",
+        "type": "break",
+        "subtitle": "Enjoy craft brews in our beer garden, San Francisco's illustrious food trucks, and local indie bands.",
+        "start": "2015-01-04T01:30:00.000Z"
+    }],
+    "partners": [],
+    "sessions": [{
+        "speakers": [],
+        "description": "IIT MADRAS PRESENTS...",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBE8F7zYg13ZLbtowFXwUFfgMv0T0BXtnf07FOzJ-XFmcJeXj7",
+        "url": "https://www.google.com/events/io",
+        "startTimestamp": "2015-02-04T01:30:00.000Z",
+        "title": "Gajendra Circle IITM",
+        "youtubeUrl": "https://google.com/events/io",
+        "mainTag": "FLAG_KEYNOTE",
+        "endTimestamp": "2015-01-04T05:00:00.000Z",
+        "color": "#3f51b5",
+        "hashtag": "keynote",
+        "isLivestream": true,
+        "captionsUrl": "",
+        "id": "__keynote__",
+        "tags": [
+        "FLAG_KEYNOTE"
+        ],
+        "room": "gc"
+    },{
+              "speakers": [],
+              "description": "IIT MADRAS PRESENTS...",
+              "photoUrl": "data:image/jpeg;base64,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",
+              "url": "https://www.google.com/events/io",
+              "startTimestamp": "2015-01-04T01:30:00.000Z",
+              "title": "Himalaya",
+              "youtubeUrl": "https://google.com/events/io",
+              "mainTag": "FLAG_KEYNOTE",
+              "endTimestamp": "2015-01-04T05:00:00.000Z",
+              "color": "#3f51b5",
+              "hashtag": "keynote",
+              "isLivestream": true,
+              "captionsUrl": "",
+              "id": "__himalaya__",
+              "tags": [
+              "FLAG_KEYNOTE"
+              ],
+              "room": "gc"
+          }, {
+        "speakers": [
+            "Aerobotics_Coord1","Aerobotics_Coord2"
+        ],
+        "description": "Want to make something that flies? Think you’re smart enough to automate it?
+
+            We present AEROBOTICS,a unique blend of two very exciting fields of aero modelling and robotics,thereby“ Taking Robotics to the Vertical Dimension” So grab the opportunity and play the hero!Huddle up teams,
+        form your own skunk works,
+        fly down to Shaastra and may your passion,
+        skill and talent escort you to that handsome cash prize!",
+        "title": "AEROBOTICS",
+        "url": "http://shaastra.org/2015/main/php/pages/event.php?category=Aerofest&event=Aerobotics&tab=00Home",
+        "startTimestamp": "2015-01-03T07:20:00.000Z",
+        "photoUrl": "http://shaastra.org/2015/main/img/events/list/aerobotics.jpg",
+        "mainTag": "TOPIC_AEROFEST",
+        "id": "_aerobotics_",
+        "color": "#558b2f",
+        "room": "room8",
+        "hashtag": "Shaastra 2k15",
+        "isLivestream": false,
+        "endTimestamp": "2015-01-03T07:50:00.000Z",
+        "tags": [
+            "TAG_EVENTS",
+            "TOPIC_AEROFEST",
+            "TYPE_COMPETITION"
+        ],
+        "captionsUrl": "Link To Aerobotics"
+    }, {
+               "speakers": [
+                   "Airshow_Coord1","Airshow_Coord2"
+               ],
+               "description": "One of the biggest RC flying shows in the country, with planes and helicopters all twisting and twirling and fliers using the sky as the canvas for their masterpieces.
+
+                               Shaastra Air Show never fails in leaving its spectators in Awe!
+
+                               This Shaastra 2015, the Show is in the Air! ",
+               "title": "AIRSHOW",
+               "url": "https://www.google.com/events/io/schedule/session/07fd8b0d-80bf-e311-b297-00155d5066d7",
+               "startTimestamp": "2015-08-04T01:30:00.000Z",
+               "photoUrl": "http://shaastra.org/2015/main/img/events/list/airshow.jpg",
+               "mainTag": "TOPIC_AEROFEST",
+               "id": "_airshow_",
+               "color": "#558b2f",
+               "room": "room8",
+               "hashtag": "android",
+               "isLivestream": false,
+               "endTimestamp": "2015-01-04T05:00:00.000Z",
+               "tags": [
+                   "TAG_EVENTS",
+                   "TOPIC_AEROFEST",
+                   "TYPE_SHOW"
+               ],
+               "captionsUrl": ""
+           },{
+                     "speakers": [
+                         "Android App Workshop_Coord1"
+                     ],
+                     "description": "Do you get excited when you discover the features of any new android app ?Spent sleepless nights trying to figure out how they work? Want to know what it takes to build a nice app of your own? Here is a great opportunity for you to start building your own cool apps. We will show you how to design, develop and manage android apps.Join us and watch your hidden creativity take form!",
+                     "title": "ANDROID APP WORKSHOP",
+                     "url": "https://www.google.com/events/io/schedule/session/07fd8b0d-80bf-e311-b297-00155d5066d7",
+                     "startTimestamp": "2015-01-04T01:30:00.000Z",
+                     "photoUrl": "http://shaastra.org/2015/main/img/events/list/android%20app.jpg",
+                     "mainTag": "TOPIC_WORKSHOPS",
+                     "id": "_androidappworkshop_",
+                     "color": "#558b2f",
+                     "room": "gc",
+                     "hashtag": "android",
+                     "isLivestream": false,
+                     "endTimestamp": "2015-01-04T05:00:00.000Z",
+                     "tags": [
+                         "TAG_WORKSHOPS",
+
+                         "TYPE_WORKSHOP"
+                     ],
+                     "captionsUrl": ""
+                 },
+           {
+                                "speakers": [
+                                    "Case Study_Coord1"
+                                ],
+                                "description": "Shaastra 2015 presents Case-study, a competition to showcase your all-round managerial skills!
+
+                                                Case-study invites young managers to a perfect opportunity to realize their dreams and apply themselves to a real world scenario. Just managerial skills will not suffice here as you shall need sound technical analysis to back it up too! Analyze problems from different viewpoints and unleash your analytic skills.
+                                                Form teams of two and get ready to participate in an enthralling competition to find the Ultimate Manager.
+
+                                                Are you the chosen one? Then prove it to us and win exciting prizes and the tag of the best!",
+                                "title": "CASE STUDY",
+                                "url": "https://www.google.com/events/io/schedule/session/07fd8b0d-80bf-e311-b297-00155d5066d7",
+                                "startTimestamp": "2015-01-04T01:30:00.000Z",
+                                "photoUrl": "http://shaastra.org/2015/main/img/events/list/case%20study.jpg",
+                                "mainTag": "TOPIC_B-EVENTS",
+                                "id": "_casestudy_",
+                                "color": "#558b2f",
+                                "room": "gc",
+                                "hashtag": "android",
+                                "isLivestream": false,
+                                "endTimestamp": "2015-01-04T05:00:00.000Z",
+                                "tags": [
+                                    "TAG_EVENTS",
+                                    "TOPIC_B-EVENTS",
+                                    "TYPE_COMPETITION"
+                                ],
+                                "captionsUrl": ""
+                            }
+                 ],
+    "video_library": [{
+        "vid": "9pmPa_KxsAM",
+        "title": "Google I/O 2013 Keynote",
+        "topic": "",
+        "year": "2013",
+        "thumbnailUrl": "http://img.youtube.com/vi/9pmPa_KxsAM/hqdefault.jpg",
+        "id": "9pmPa_KxsAM",
+        "desc": "Google I/O 2013 Keynote"
+    }, {
+        "speakers": "Shawn Simister",
+        "vid": "pGtrs_SqZOU",
+        "title": "Google I/O 2012: Knowledge-Based Application Design Patterns",
+        "topic": "Tech Talk",
+        "year": "2012",
+        "thumbnailUrl": "http://img.youtube.com/vi/pGtrs_SqZOU/hqdefault.jpg",
+        "id": "pGtrs_SqZOU",
+        "desc": "In this talk we’ll look at emerging design patterns for building web applications that take advantage of large-scale, structured data. We’ll look at open datasets like Wikipedia and Freebase as well as structured markup like Schema.org and RDFa to see what new types of applications these technologies open up for developers."
+    }, {
+        "speakers": "John McCutchan",
+        "title": "Optimizing Dart Applications",
+        "topic": "Dart",
+        "year": 2014,
+        "id": "b6879711-c8b9-e311-b297-00155d5066d7",
+        "desc": "Use the Dart VM's builtin Observatory tool to analyze and fix performances issues in Dart applications. Peer into a running VM and get real-time feedback on memory and CPU usage."
+    }],
+    "hashtags": [{
+        "color": "#303f9f",
+        "order": 1,
+        "name": "#io14",
+        "description": "Follow the general Google+ social conversation happening around I/O 2014."
+    }, {
+        "color": "#ad1457",
+        "order": 45,
+        "name": "#io14 #Wearables",
+        "description": "Follow the Google+ social conversation about \"Wearables\" at I/O 2014."
+    }],
+    "experts": [],
+    "rooms": [{
+        "original_id": "f770c62b-2cda-e311-b297-00155d5066d7",
+        "id": "dddsandbox",
+        "name": "Design,Develop,Distribute"
+    }, {
+        "original_id": "0be884ab-5cd5-e311-b297-00155d5066d7",
+        "id": "room8",
+        "name": "Chemplast"
+    }, {
+        "original_id": "a297ea70-e2e1-e311-b297-00155d5066d7",
+        "id": "keynote",
+        "name": "Level 3"
+    }, {
+        "original_id": "67387d3c-5ea9-e311-b30e-00155d5066d7",
+        "id": "room3",
+        "name": "Room 3"
+    }, {
+        "original_id": "7abd1439-30da-e311-b297-00155d5066d7",
+        "id": "workshops",
+        "name": "Workshops"
+    }, {
+        "original_id": "98523486-e989-e311-84db-00155d5066d7",
+        "id": "room2",
+        "name": "Room 2"
+    }, {
+        "original_id": "07e884ab-5cd5-e311-b297-00155d5066d7",
+        "id": "room6",
+        "name": "Room 6"
+    }, {
+        "original_id": "428c4d56-3988-e311-84db-00155d5066d7",
+        "id": "room1",
+        "name": "Room 1"
+    }, {
+        "original_id": "05e884ab-5cd5-e311-b297-00155d5066d7",
+        "id": "room5",
+        "name": "Room 5"
+    }, {
+        "original_id": "09e884ab-5cd5-e311-b297-00155d5066d7",
+        "id": "room7",
+        "name": "Room 7"
+    }],
+    "tags": [{
+        "category": "THEME",
+        "name": "Events",
+        "abstract": "",
+        "tag": "TAG_EVENTS",
+        "original_id": "id-events",
+        "order_in_category": 1
+    }, {
+        "category": "THEME",
+        "name": "Workshops",
+        "abstract": "",
+        "tag": "TAG_WORKSHOPS",
+        "original_id": "id-workshops",
+        "order_in_category": 2
+    }, {
+        "category": "THEME",
+        "name": "Lectures",
+        "abstract": "",
+        "tag": "TAG_LECTURES",
+        "original_id": "id-lectures",
+        "order_in_category": 3
+    }, {
+        "category": "THEME",
+        "name": "Exhibitions",
+        "abstract": "",
+        "tag": "TAG_EXHIBITION",
+        "original_id": "id-exhibitions",
+        "order_in_category": 4
+    }, {
+        "category": "THEME",
+        "name": "Hospitality",
+        "abstract": "",
+        "tag": "TAG_HOSPITALITY",
+        "original_id": "id-hospitality",
+        "order_in_category": 5
+    }, {
+        "category": "THEME",
+        "name": "Sponsors",
+        "abstract": "",
+        "tag": "TAG_SPONSORS",
+        "original_id": "id-sponsors",
+        "order_in_category": 6
+    }, {
+        "category": "TOPIC",
+        "name": "AeroFest",
+        "color": "#ffff00",
+        "abstract": "",
+        "tag": "TOPIC_AEROFEST",
+        "original_id": "id-aerofest",
+        "order_in_category": 0
+    }, {
+        "category": "TOPIC",
+        "name": "B-Events",
+        "color": "#800000",
+        "abstract": "",
+        "tag": "TOPIC_B-EVENTS",
+        "original_id": "id-b-events",
+        "order_in_category": 1
+    }, {
+        "category": "TOPIC",
+        "name": "Coding",
+        "color": "#800000",
+        "abstract": "",
+        "tag": "TOPIC_CODING",
+        "original_id": "id-coding",
+        "order_in_category": 2
+    }, {
+        "category": "TYPE",
+        "name": "Competition",
+        "abstract": "",
+        "tag": "TYPE_COMPETITION",
+        "original_id": "id-competition",
+        "order_in_category": 0
+    }, {
+        "category": "TYPE",
+        "name": "Show",
+        "abstract": "",
+        "tag": "TYPE_SHOW",
+        "original_id": "id-show",
+        "order_in_category": 1
+    }, {
+        "category": "TYPE",
+        "name": "Workshop",
+        "abstract": "",
+        "tag": "TYPE_WORKSHOP",
+        "original_id": "id-workshop",
+        "order_in_category": 2
+    }]
+}
